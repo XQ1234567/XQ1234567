@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XQ1234567
+- 👋 Hi, I’m Xiao. 是一个美女
 - 👀 I’m interested in social network analysis (SNA).
 - 🌱 I’m currently learning C. 
 - 💞️ I’m looking to collaborate on implementing a graph sampling library based on C. 
